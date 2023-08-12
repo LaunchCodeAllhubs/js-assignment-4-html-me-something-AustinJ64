@@ -11,6 +11,23 @@ body {
     color: red
 }
 
-funParagraph {
+.funParagraph {
     color: green
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+h1 {
+    text-align: center;
 }
